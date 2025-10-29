@@ -1,0 +1,5 @@
+{
+  "name": "LifeQuest: A Financial Simulator",
+  "description": "A gamified, single-player financial life simulator. Navigate life events, make financial decisions, and watch your net worth grow over time. Powered by Gemini for dynamic, AI-generated scenarios.",
+  "requestFramePermissions": []
+}
